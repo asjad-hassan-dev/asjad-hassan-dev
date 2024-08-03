@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @asjad-hassan
+- 👋 Hi, I’m Asjad Hassan
 - 👀 I’m interested in ... Front End Web Development
 - 🌱 I’m currently learning ... Information Technology 
 - 💞️ I’m looking to collaborate on ... Some Front End Development Projects to enhance my current skills
